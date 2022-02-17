@@ -1,4 +1,17 @@
 # detections_list
+detections
+https://github.com/elastic/detection-rules
+https://github.com/SigmaHQ/sigma
+https://github.com/chronicle/detection-rules
+https://research.splunk.com/detections/
+https://github.com/FalconForceTeam/FalconFriday
+https://github.com/Yara-Rules/rules
+https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries
+https://github.com/panther-labs/panther-analysis
+https://github.com/mitre-attack/car
+https://github.com/OTRF
+https://github.com/dnif/content
+
 # Run VR for Dead disk forensics
 - https://github.com/Velocidex/velociraptor/pull/1564
 - can be used to pull artifacts from dead disk
